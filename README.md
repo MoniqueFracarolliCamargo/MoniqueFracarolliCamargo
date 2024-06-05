@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Monique Fracarolli Camargo
 
-- 👩‍💻 Desenvolvedora Front-end
-- 👩‍🎓 Estudante Meninas In Tech
+- 👩‍💻 Analista de Desenvolvimento Flutter
+- 👩‍🎓 Ex-Estudante Meninas In Tech
 - 😄 Pronouns: Ela/Dela
 - ✊🏿 Black Lives Matter
 
